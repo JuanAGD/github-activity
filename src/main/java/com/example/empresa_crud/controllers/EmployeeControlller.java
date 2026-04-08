@@ -11,6 +11,9 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/empleados")
+/**
+ * Hola chavales
+ */
 @RequiredArgsConstructor
 public class EmployeeControlller {
 
